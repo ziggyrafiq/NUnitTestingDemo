@@ -1,0 +1,14 @@
+I:\GitHub\NUnitTestingDemo\CalculatorApp\CalculatorApp\bin\Debug\net9.0\CalculatorApp.exe
+I:\GitHub\NUnitTestingDemo\CalculatorApp\CalculatorApp\bin\Debug\net9.0\CalculatorApp.deps.json
+I:\GitHub\NUnitTestingDemo\CalculatorApp\CalculatorApp\bin\Debug\net9.0\CalculatorApp.runtimeconfig.json
+I:\GitHub\NUnitTestingDemo\CalculatorApp\CalculatorApp\bin\Debug\net9.0\CalculatorApp.dll
+I:\GitHub\NUnitTestingDemo\CalculatorApp\CalculatorApp\bin\Debug\net9.0\CalculatorApp.pdb
+I:\GitHub\NUnitTestingDemo\CalculatorApp\CalculatorApp\obj\Debug\net9.0\CalculatorApp.GeneratedMSBuildEditorConfig.editorconfig
+I:\GitHub\NUnitTestingDemo\CalculatorApp\CalculatorApp\obj\Debug\net9.0\CalculatorApp.AssemblyInfoInputs.cache
+I:\GitHub\NUnitTestingDemo\CalculatorApp\CalculatorApp\obj\Debug\net9.0\CalculatorApp.AssemblyInfo.cs
+I:\GitHub\NUnitTestingDemo\CalculatorApp\CalculatorApp\obj\Debug\net9.0\CalculatorApp.csproj.CoreCompileInputs.cache
+I:\GitHub\NUnitTestingDemo\CalculatorApp\CalculatorApp\obj\Debug\net9.0\CalculatorApp.dll
+I:\GitHub\NUnitTestingDemo\CalculatorApp\CalculatorApp\obj\Debug\net9.0\refint\CalculatorApp.dll
+I:\GitHub\NUnitTestingDemo\CalculatorApp\CalculatorApp\obj\Debug\net9.0\CalculatorApp.pdb
+I:\GitHub\NUnitTestingDemo\CalculatorApp\CalculatorApp\obj\Debug\net9.0\CalculatorApp.genruntimeconfig.cache
+I:\GitHub\NUnitTestingDemo\CalculatorApp\CalculatorApp\obj\Debug\net9.0\ref\CalculatorApp.dll

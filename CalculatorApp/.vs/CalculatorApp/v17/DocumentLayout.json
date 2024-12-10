@@ -1,0 +1,143 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "I:\\GitHub\\NUnitTestingDemo\\CalculatorApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B5642CFB-B9A1-46F3-882E-C4B7F6EF4838}|CalculatorApp.Tests\\CalculatorApp.Tests.csproj|i:\\github\\nunittestingdemo\\calculatorapp\\calculatorapp.tests\\jsonprocessortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5642CFB-B9A1-46F3-882E-C4B7F6EF4838}|CalculatorApp.Tests\\CalculatorApp.Tests.csproj|solutionrelative:calculatorapp.tests\\jsonprocessortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5642CFB-B9A1-46F3-882E-C4B7F6EF4838}|CalculatorApp.Tests\\CalculatorApp.Tests.csproj|i:\\github\\nunittestingdemo\\calculatorapp\\calculatorapp.tests\\customassertions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5642CFB-B9A1-46F3-882E-C4B7F6EF4838}|CalculatorApp.Tests\\CalculatorApp.Tests.csproj|solutionrelative:calculatorapp.tests\\customassertions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5642CFB-B9A1-46F3-882E-C4B7F6EF4838}|CalculatorApp.Tests\\CalculatorApp.Tests.csproj|i:\\github\\nunittestingdemo\\calculatorapp\\calculatorapp.tests\\calculatortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5642CFB-B9A1-46F3-882E-C4B7F6EF4838}|CalculatorApp.Tests\\CalculatorApp.Tests.csproj|solutionrelative:calculatorapp.tests\\calculatortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22277F6C-4F71-491C-9ADE-685108E522EC}|CalculatorApp\\CalculatorApp.csproj|i:\\github\\nunittestingdemo\\calculatorapp\\calculatorapp\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22277F6C-4F71-491C-9ADE-685108E522EC}|CalculatorApp\\CalculatorApp.csproj|solutionrelative:calculatorapp\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22277F6C-4F71-491C-9ADE-685108E522EC}|CalculatorApp\\CalculatorApp.csproj|i:\\github\\nunittestingdemo\\calculatorapp\\calculatorapp\\jsonprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22277F6C-4F71-491C-9ADE-685108E522EC}|CalculatorApp\\CalculatorApp.csproj|solutionrelative:calculatorapp\\jsonprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22277F6C-4F71-491C-9ADE-685108E522EC}|CalculatorApp\\CalculatorApp.csproj|i:\\github\\nunittestingdemo\\calculatorapp\\calculatorapp\\calculatorapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{22277F6C-4F71-491C-9ADE-685108E522EC}|CalculatorApp\\CalculatorApp.csproj|solutionrelative:calculatorapp\\calculatorapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22277F6C-4F71-491C-9ADE-685108E522EC}|CalculatorApp\\CalculatorApp.csproj|i:\\github\\nunittestingdemo\\calculatorapp\\calculatorapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22277F6C-4F71-491C-9ADE-685108E522EC}|CalculatorApp\\CalculatorApp.csproj|solutionrelative:calculatorapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CustomAssertions.cs",
+              "DocumentMoniker": "I:\\GitHub\\NUnitTestingDemo\\CalculatorApp\\CalculatorApp.Tests\\CustomAssertions.cs",
+              "RelativeDocumentMoniker": "CalculatorApp.Tests\\CustomAssertions.cs",
+              "ToolTip": "I:\\GitHub\\NUnitTestingDemo\\CalculatorApp\\CalculatorApp.Tests\\CustomAssertions.cs",
+              "RelativeToolTip": "CalculatorApp.Tests\\CustomAssertions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T14:05:38.568Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "JsonProcessorTests.cs",
+              "DocumentMoniker": "I:\\GitHub\\NUnitTestingDemo\\CalculatorApp\\CalculatorApp.Tests\\JsonProcessorTests.cs",
+              "RelativeDocumentMoniker": "CalculatorApp.Tests\\JsonProcessorTests.cs",
+              "ToolTip": "I:\\GitHub\\NUnitTestingDemo\\CalculatorApp\\CalculatorApp.Tests\\JsonProcessorTests.cs",
+              "RelativeToolTip": "CalculatorApp.Tests\\JsonProcessorTests.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAswD0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T13:54:25.909Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CalculatorApp",
+              "DocumentMoniker": "I:\\GitHub\\NUnitTestingDemo\\CalculatorApp\\CalculatorApp\\CalculatorApp.csproj",
+              "RelativeDocumentMoniker": "CalculatorApp\\CalculatorApp.csproj",
+              "ToolTip": "I:\\GitHub\\NUnitTestingDemo\\CalculatorApp\\CalculatorApp\\CalculatorApp.csproj",
+              "RelativeToolTip": "CalculatorApp\\CalculatorApp.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-10T13:52:54.108Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "JsonProcessor.cs",
+              "DocumentMoniker": "I:\\GitHub\\NUnitTestingDemo\\CalculatorApp\\CalculatorApp\\JsonProcessor.cs",
+              "RelativeDocumentMoniker": "CalculatorApp\\JsonProcessor.cs",
+              "ToolTip": "I:\\GitHub\\NUnitTestingDemo\\CalculatorApp\\CalculatorApp\\JsonProcessor.cs",
+              "RelativeToolTip": "CalculatorApp\\JsonProcessor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T13:53:01.202Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Calculator.cs",
+              "DocumentMoniker": "I:\\GitHub\\NUnitTestingDemo\\CalculatorApp\\CalculatorApp\\Calculator.cs",
+              "RelativeDocumentMoniker": "CalculatorApp\\Calculator.cs",
+              "ToolTip": "I:\\GitHub\\NUnitTestingDemo\\CalculatorApp\\CalculatorApp\\Calculator.cs",
+              "RelativeToolTip": "CalculatorApp\\Calculator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T12:35:43.734Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CalculatorTests.cs",
+              "DocumentMoniker": "I:\\GitHub\\NUnitTestingDemo\\CalculatorApp\\CalculatorApp.Tests\\CalculatorTests.cs",
+              "RelativeDocumentMoniker": "CalculatorApp.Tests\\CalculatorTests.cs",
+              "ToolTip": "I:\\GitHub\\NUnitTestingDemo\\CalculatorApp\\CalculatorApp.Tests\\CalculatorTests.cs",
+              "RelativeToolTip": "CalculatorApp.Tests\\CalculatorTests.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAkwEMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T12:35:21.503Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "I:\\GitHub\\NUnitTestingDemo\\CalculatorApp\\CalculatorApp\\Program.cs",
+              "RelativeDocumentMoniker": "CalculatorApp\\Program.cs",
+              "ToolTip": "I:\\GitHub\\NUnitTestingDemo\\CalculatorApp\\CalculatorApp\\Program.cs",
+              "RelativeToolTip": "CalculatorApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T18:14:54.868Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
